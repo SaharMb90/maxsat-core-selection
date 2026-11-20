@@ -1,0 +1,3 @@
+python-sat>=1.8
+pytest>=7
+anthropic>=0.30  # optional, only for the live LLM policy
